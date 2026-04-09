@@ -31,7 +31,7 @@ Pinpointing acquisition powerhouses and tracking user registration growth rates.
 How to Run Locally
 
 Clone the Data:
-git clone https://github.com phonepe_pulse_data
+git clone https://github.com/PhonePe/pulse.git phonepe_pulse_data
 
 
 Setup Environment:

@@ -44,7 +44,7 @@ python extraction.py
 Launch Dashboard:
 streamlit run app.py
 
- Strategic Impact
+
 This dashboard demonstrates how Data Engineering (ETL) and Data Analytics (SQL + Visualization) work together to turn raw numbers into business strategy. Each chart includes a "View SQL" expander to provide full transparency into the data logic.
 
 
